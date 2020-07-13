@@ -2,7 +2,7 @@
 
 I'm a **Machine Learning engineer** and Data Scientist specializing in **Computer Vision** and NLP.
 
-[My CV](./ChernykhCV.pdf)
+[My CV](https://github.com/vladimir-chernykh/vladimir-chernykh/blob/master/ChernykhCV.pdf)
 
 ### Activities
 
