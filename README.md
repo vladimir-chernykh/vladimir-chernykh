@@ -6,7 +6,7 @@ I'm a **Machine Learning engineer** and Data Scientist specializing in **Compute
 
 ### Activities
 
-- 🔭 I’m currently running a startup [Neuroinfra](https://github.com/neuroinfra).
+- 🔭 I’m currently running a startup [Neuroretouch](https://neuroretouch.com).
 - 👨‍💻 Previously worked at [Gigster](https://gigster.com), [Yandex](https://yandex.com/company/), [F1 Scuderia Toro Rosso](https://www.scuderiaalphatauri.com/en/).
 
 ### Connect
