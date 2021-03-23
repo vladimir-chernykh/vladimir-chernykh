@@ -12,4 +12,4 @@ I'm a **Machine Learning engineer** and Data Scientist specializing in **Compute
 ### Connect
 
 - LinkedIn: https://www.linkedin.com/in/vovacher/
-- Email: mail@vovacher.com
+- Email: vladimir.chernykh@phystech.edu
