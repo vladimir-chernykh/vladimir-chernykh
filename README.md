@@ -2,7 +2,7 @@
 
 I'm a founder of [**retouchee**](https://retouchee.com) company. We enable e-commerce businesses to **automate retouching** process of their products using our advanced platform powered by **AI** and **Computer Vision**.
 
-Former **Machine Learning engineer** and Data Scientist specializing in **Computer Vision** and NLP.
+**Machine Learning engineer** and Data Scientist specializing in **Computer Vision** and NLP.
 
 [My CV](https://github.com/vladimir-chernykh/vladimir-chernykh/blob/master/ChernykhCV.pdf)
 
