@@ -15,4 +15,4 @@ I'm a founder of [**retouchee**](https://retouchee.com) company. We enable e-com
 
 - Telegram: [@vovacher](https://t.me/vovacher)
 - LinkedIn: https://www.linkedin.com/in/vovacher/
-- Email: vladimir.chernykh@phystech.edu
+- Email: [vladimir.y.chernykh@gmail.com](mailto:vladimir.y.chernykh@gmail.com)
