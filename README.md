@@ -10,6 +10,7 @@ I am a founder of the [**retouchee**](https://retouchee.com) company. We enable 
 
 - 🔭 I’m currently running a startup [retouchee](https://retouchee.com).
 - 👨‍💻 Previously worked at [Gigster](https://gigster.com), [Yandex](https://yandex.com/company/), [F1 Scuderia Toro Rosso](https://www.scuderiaalphatauri.com/en/).
+- 📖 Writing personal blog at [Medium](https://medium.com/@vovacher).
 - 🎓 Graduated from [MIPT](https://mipt.ru/en) - the best technical university in Russia.
 
 ### Connect
